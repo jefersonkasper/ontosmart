@@ -1,0 +1,24 @@
+{
+    "name": "jefersonkasper/ontosmart",
+    "description": "A package to provide keys and values from ontologies, using autocomplete components",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jefersonkasper\\Ontosmart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeferson Kasper"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^2.21"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

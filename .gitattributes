@@ -1,0 +1,3 @@
+build export-ignore
+/teste export-ignore
+.phpunit.xml export-ignore 
